@@ -30,7 +30,7 @@ The DH Protocol Implementation consists of the following components:
 
 ## Getting Started
 
-To get started with the DH Protocol Implementation, navigate to the [DH folder](./DH) and refer to the respective README files for the DH Client and DH Server.
+To get started with the DH Protocol Implementation, navigate to the [DH folder](./../DH) and refer to the respective README files for the DH Client and DH Server.
 
 ## Contribution
 
