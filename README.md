@@ -6,13 +6,13 @@ Welcome to the project repository that includes an Elliptic Curve Cryptography (
 
 The **DHEC (Elliptic Curve Cryptography) Library** is a Java package designed to simplify working with elliptic curves in cryptography. It includes functionalities such as point operations, point multiplication, modular arithmetic, and inverse calculation.
 
-Learn more about the DHEC Library in the [DHEC README](./DHEC/README.md).
+Learn more about the DHEC Library in the [DHEC README](./src/DHEC/README.md).
 
 ## DH Protocol Implementation
 
 The **Diffie-Hellman Protocol Implementation** includes both a client and a server component that demonstrate the establishment of a shared secret key using the DH protocol. This project allows two entities (Alice and Bob) to communicate securely by exchanging public keys and generating a shared secret key using the DH protocol.
 
-Learn more about the DH Protocol Implementation in the [DH README](./DH/README.md).
+Learn more about the DH Protocol Implementation in the [DH README](./src/DH/README.md).
 
 ## DHEC Protocol Implementation
 
@@ -22,7 +22,7 @@ The **Elliptic Curve Diffie-Hellman (ECDH) Protocol Implementation** is designed
 
 The DHEC Client component generates a private key, calculates the public key, sends it to the server, and receives the server's public key. It then calculates the shared secret using elliptic curve operations.
 
-Learn more about the DHEC Client in the [DHEC Client README](./DHEC/Client/README.md).
+Learn more about the DHEC Client in the [DHEC Client README](./src/DHEC/Client/README.md).
 
 ### DHEC Server
 
