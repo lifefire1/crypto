@@ -34,7 +34,7 @@ To get started with the DH Protocol Implementation, navigate to the [DH folder](
 
 ## Contribution
 
-This project is open for contributions. If you have ideas for enhancements or bug fixes, feel free to contribute by opening an issue or a pull request on [GitHub](https://github.com/your/project-repo).
+This project is open for contributions. If you have ideas for enhancements or bug fixes, feel free to contribute by opening an issue or a pull request on [GitHub](https://github.com/lifefire1/crypto).
 
 ## License
 
