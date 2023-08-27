@@ -30,7 +30,7 @@ The ECDH Protocol Implementation consists of the following components:
 
 ## Getting Started
 
-To get started with the DHEC Protocol Implementation, navigate to the [DHEC folder](./DHEC) and refer to the respective README files for the DHEC Client and DHEC Server.
+To get started with the DHEC Protocol Implementation, navigate to the [DHEC folder](./src/DHEC) and refer to the respective README files for the DHEC Client and DHEC Server.
 
 ## Contribution
 
